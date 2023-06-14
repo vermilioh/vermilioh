@@ -17,8 +17,8 @@ I'm a budding Python developer, specializing in building web applications. I aim
 ## Current Project: Online Art Portfolio Shop 🎨
 I'm currently working on building an online portfolio for artist. This website, built using Django and Django REST Framework, will feature an online shop where artist can sell works. A key feature is the use of REST API for handling the shop's data and managing the user interface.
 
-[WEBSITE](http://vermilioh.pythonanywhere.com/)
-[Link to the project on Github](https://github.com/vermilioh/myonlinestore)
+- [WEBSITE](http://vermilioh.pythonanywhere.com/)
+- [Link to the project on Github](https://github.com/vermilioh/myonlinestore)
 
 ## Contact Me ✉️
 You can reach me via [LinkedIn](https://linkedin.com/in/vermiliop) or [Telegram](https://t.me/vermilioh) or send me an email at vermilion296@example.com. 
