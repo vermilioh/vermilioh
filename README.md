@@ -21,6 +21,6 @@ I'm currently working on building an online portfolio for artist. This website, 
 - [Link to the project on Github](https://github.com/vermilioh/myonlinestore)
 
 ## Contact Me ✉️
-You can reach me via [LinkedIn](https://linkedin.com/in/vermiliop) or [Telegram](https://t.me/vermilioh) or send me an email at vermilion296@example.com. 
+You can reach me via [LinkedIn](https://linkedin.com/in/vermiliop) or [Telegram](https://t.me/vermilioh) or send me an email at vermilion296@gmail.com. 
 
 
